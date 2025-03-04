@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerManagement.Business\CustomerManagement.Business.csproj" />
+    <ProjectReference Include="..\CustomerManagement.DataAccess\CustomerManagement.DataAccess.csproj" />
+    <ProjectReference Include="..\CustomerManagement.Entities\CustomerManagement.Entities.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

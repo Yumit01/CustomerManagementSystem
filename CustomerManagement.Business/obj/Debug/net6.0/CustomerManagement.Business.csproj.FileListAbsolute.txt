@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.Business.deps.json
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.Business.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.Business.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.DataAccess.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.Entities.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.DataAccess.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\bin\Debug\net6.0\CustomerManagement.Entities.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.AssemblyInfo.cs
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.csproj.CopyComplete
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\refint\CustomerManagement.Business.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\CustomerManagement.Business.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Business\obj\Debug\net6.0\ref\CustomerManagement.Business.dll

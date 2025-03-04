@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\bin\Debug\net6.0\CustomerManagement.DataAccess.deps.json
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\bin\Debug\net6.0\CustomerManagement.DataAccess.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\bin\Debug\net6.0\CustomerManagement.DataAccess.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\bin\Debug\net6.0\CustomerManagement.Entities.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\bin\Debug\net6.0\CustomerManagement.Entities.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.AssemblyInfo.cs
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.csproj.CopyComplete
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\refint\CustomerManagement.DataAccess.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\CustomerManagement.DataAccess.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.DataAccess\obj\Debug\net6.0\ref\CustomerManagement.DataAccess.dll

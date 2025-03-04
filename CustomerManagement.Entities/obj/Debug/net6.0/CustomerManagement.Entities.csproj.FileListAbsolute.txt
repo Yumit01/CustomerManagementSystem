@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\bin\Debug\net6.0\CustomerManagement.Entities.deps.json
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\bin\Debug\net6.0\CustomerManagement.Entities.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\bin\Debug\net6.0\CustomerManagement.Entities.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.AssemblyInfo.cs
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\refint\CustomerManagement.Entities.dll
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\CustomerManagement.Entities.pdb
+C:\Users\asus\Desktop\x\CustomerManagementSystem\CustomerManagement.Entities\obj\Debug\net6.0\ref\CustomerManagement.Entities.dll
